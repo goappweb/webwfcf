@@ -1,2 +1,2 @@
 RewriteEngine On
-Redirect 301 warriorforum.com
+Redirect 301 / http://warriorforum.com/
